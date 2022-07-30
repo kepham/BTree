@@ -1,2 +1,2 @@
 # BTree
-C# implementation of a Btree
+C# implementation of a B-tree
